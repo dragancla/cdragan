@@ -35,7 +35,8 @@ header {
    width: 100%;
    background: #161415 url(../images/header-background.jpg) repeat top center;
    background-size: cover !important;
-	-webkit-background-size: cover !important;
+   -webkit-background-size: cover !important;
+   background-attachment: fixed;
    text-align: center;
    overflow: hidden;
 }
@@ -190,7 +191,8 @@ ul#nav li.current a { color: #F06000; }
    background: #2B2B2B url(../images/about-bg.jpg) repeat center center;
    padding-top: 96px;
    padding-bottom: 66px;
-   overflow: hidden;
+   overflow: hidden;   
+   background-attachment: fixed;
 }
 
 #about a, #about a:visited  { color: #fff; }
