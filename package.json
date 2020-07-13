@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Curriculum vitae built with GitHub Actions and deployed to GitHub Pages",
   "private": true,
-  "homepage": "https://dragancla.github.io",
+  "homepage": "https://dragancla.github.io/cdragan",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
